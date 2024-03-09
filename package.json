@@ -1,5 +1,5 @@
 {
-	"name": "@aminhg/area69_project",
+	"name": "tweetgram",
 	"version": "1.0.0",
 	"description": "Telegram bot for Twitter Task Airdrop",
 	"main": "main.js",
