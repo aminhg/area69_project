@@ -1,0 +1,12 @@
+{
+	"twitter": {
+		"consumer_key": "311424286-5bkAbvVJJWIEJYpvOQOUEZfOxBiuOYRm0s3rCzoF",
+		"consumer_secret": "6ylfwb1HBj8VkqmxIhrOPQ6A0GnimjjR2X5o0oB6Ep5l5QhQNF",
+		"access_token": "your twitter access token",
+		"access_token_secret": "your twitter access token secret"
+	},
+	"telegram": {
+		"access_token": "311424286-tDzmSd11n3VQi0b1WB4fxtdSRigHsI3UF47yQJQ9",
+		"username": "hlPcblbZk4wRTWVTik2ldliTYfm3msS6LJFtiTz7b3ua7"
+	}
+}
