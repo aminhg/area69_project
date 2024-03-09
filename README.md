@@ -1,20 +1,32 @@
+# tweetgram
+Telegram bot for Twitter Task Airdrop (Like, Retweet, Follow, Quote Retweet)
 
-## Getting Started
+# Demo
+![Tweetgram 1](./tweetgram1.png)
+![Tweetgram 2](./tweetgram2.png)
 
-First, run the development server:
+# Configuration
+Enter your Twitter API Credential and Telegram BOT Token at **config.json**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# How to get Twitter API Credential
+1. Go to Twitter Dev Portal https://developer.twitter.com/en/portal/dashboard
+2. Sign up as Hobyist > Making A bot
+3. Generate API Key and Access Token
+4. Make sure you set the permission to Read and Write
+5. See Tutotial video https://www.youtube.com/watch?v=vlvtqp44xoQ
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# How to get Telegram Bot Token
+1. Chat to BotFather https://t.me/BotFather
+2. Start and make /newbot
+3. Name it and give it an username with suffix \_bot
+4. Get the Bot Token
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# Deploying Bot
+You can use heroku, make sure you clone this repo to your Github account repositories.\
+See Tutorial here https://www.youtube.com/watch?v=BPvg9bndP1U, it's the same for Telegram Bot.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Worker: node main.js
+
+# Using Bot
+1. Go to search bar in your telegram
+2. Type your Bot Username
