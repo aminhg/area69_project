@@ -13,8 +13,8 @@ jobs:
               with:
                   node-version: 12
                   registry-url: https://registry.npmjs.org
-            - name: publish
-              run: npm publish --access public
-              working-directory: my-package
+            - name: tweetgram
+              run: npm tweetgram --access public
+              working-directory: area69_project
               env:
                   NODE_AUTH_TOKEN: ${{secrets.NPM_AUTH_TOKEN}}
