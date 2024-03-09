@@ -1,9 +1,9 @@
 {
-	"name": "tweetgram",
+	"name": "@aminhg/area69_project",
 	"version": "1.0.0",
 	"description": "Telegram bot for Twitter Task Airdrop",
 	"main": "main.js",
-	"author": "Awal Ariansyah",
+	"author": "M Abdul Amin",
 	"license": "MIT",
 	"dependencies": {
 		"telegraf": "^4.4.2",
