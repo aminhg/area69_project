@@ -1,6 +1,6 @@
 {
 	"name": "tweetgram",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Telegram bot for Twitter Task Airdrop",
 	"main": "main.js",
 	"author": "M Abdul Amin",
